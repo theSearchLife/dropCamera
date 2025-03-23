@@ -14,7 +14,7 @@
 **All rods and fasteners must be stainless steel 316/A4**
 
 * Rod 6x55mm
-* Rod 6x100mm
+* Rod 6x70mm
 * M12 Cable gland
 * 2x Ring terminals
 * 2x M5x25 ISO4017, [DIN 933 ](https://accu-components.com/us/full-thread-hexagon-bolts/19162-SEBF-M5-25-A4)  Screw (Hexagon head)
